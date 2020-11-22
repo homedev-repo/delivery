@@ -1,0 +1,33 @@
+
+.section-title {
+    color: #3e3e3e;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 40px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  .section-title > span {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+  }
+  .section-title > span:after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+    right: 10px;
+    height: 2px;
+    background: #3e3e3e;
+  }
+
+
+
+.success{background: #00B961; color:#fff}
+.info{background: #2A92BF; color:#fff}
+.warning{background: #F4CE46; color:#fff}
+.error{background: #FB7D44; color:#fff}
+  

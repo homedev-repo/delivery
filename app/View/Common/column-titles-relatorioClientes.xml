@@ -1,0 +1,37 @@
+<columnTitles>
+    <cell1>
+        <cell lineHeight="28">
+        </cell>
+    </cell1>
+<line1>
+ <line lineHeight="0" >
+    <cell1>
+        <cell lineWidth="0">
+        </cell>
+    </cell1>
+        <cell2>
+            <cell lineWidth="71">
+                <title align="C" border="1"  titleFontSizePt="11" titleFontStyle="B" lineWidth='72' lineHeight='13'><text>Nome</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell  lineWidth="1" lineHeight="0"></cell>
+        </cell3>
+          <cell4>
+            <cell lineWidth="26" >
+                <title align="C" border="1" titleFontSizePt="11" titleFontStyle="B" lineWidth='26' lineHeight='13'><text>CPF</text></title>
+            </cell>
+        </cell4>
+        <cell6>
+            <cell lineWidth="72" >
+                <title align="C" border="1" titleFontSizePt="11" lineWidth='72' lineHeight='13' titleFontStyle="B"><text>E-mail</text></title>
+            </cell>
+        </cell6>
+          <cell5>
+            <cell lineWidth="79" >
+                <title align="C" border="1" titleFontSizePt="11" lineWidth='31' lineHeight='13' titleFontStyle="B"><text>Situação</text></title>
+            </cell>
+        </cell5>
+    </line>
+</line1>
+</columnTitles>

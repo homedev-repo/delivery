@@ -1,0 +1,54 @@
+<columnTitles>
+    <cell1>
+        <cell lineHeight="28">
+        </cell>
+    </cell1>
+<line1>
+ <line lineHeight="0" >
+    <cell1>
+        <cell lineWidth="25">
+        </cell>
+    </cell1>
+        <cell2>
+            <cell lineWidth="71">
+                <title align="C" border="1"  titleFontSizePt="11" titleFontStyle="B" lineWidth='95' lineHeight='13'><text>Produto</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell  lineWidth="24" lineHeight="0"></cell>
+        </cell3>
+          <cell4>
+            <cell lineWidth="26" >
+                <title align="C" border="1" titleFontSizePt="11" titleFontStyle="B" lineWidth='38' lineHeight='13'><text>Valor</text></title>
+            </cell>
+        </cell4>
+          <cell5>
+            <cell  lineWidth="12" lineHeight="0"></cell>
+        </cell5>
+          <cell6>
+            <cell lineWidth="26" >
+                <title align="C" border="1" titleFontSizePt="11" titleFontStyle="B" lineWidth='30' lineHeight='13'><text>Custo</text></title>
+            </cell>
+        </cell6>
+        <cell7>
+            <cell  lineWidth="4" lineHeight="0"></cell>
+        </cell7>
+          <cell8>
+            <cell lineWidth="20" >
+                <title align="C" border="1" titleFontSizePt="11" titleFontStyle="B" lineWidth='30' lineHeight='13'><text>Lucro</text></title>
+            </cell>
+        </cell8>
+        <cell9>
+            <cell  lineWidth="10" lineHeight="0"></cell>
+        </cell9>
+          <cell10>
+            <cell lineWidth="20" >
+                <title align="C" border="1" titleFontSizePt="11" titleFontStyle="B" lineWidth='35' lineHeight='13'><text>Margem De Lucro</text></title>
+            </cell>
+        </cell10>
+        <cell11>
+            <cell  lineWidth="15" lineHeight="0"></cell>
+        </cell11>
+    </line>
+</line1>
+</columnTitles>

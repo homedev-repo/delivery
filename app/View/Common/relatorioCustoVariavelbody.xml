@@ -1,0 +1,18 @@
+<body>
+<line2>
+    <line lineHeight='0'>
+        <cell1>
+            <cell lineWidth="21" border='0'></cell>
+        </cell1>
+        <cell2>
+            <cell align="C" border="1"  fontSizePt='10' fieldName="Custovariavel.custo" lineWidth='90' lineHeight='8'></cell>
+        </cell2>
+        <cell3>
+            <cell align="C" border="1"  fontSizePt='10' fieldName="Custovariavel.valor"  lineWidth='22' lineHeight='8'></cell>
+        </cell3>
+        <cell4>
+            <cell align="C" border="1"  fontSizePt='10' fieldName="Categoriacusto.custo"  lineWidth='50' lineHeight='8'></cell>
+        </cell4>
+    </line>
+</line2>
+</body>

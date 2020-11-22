@@ -1,0 +1,16 @@
+<header>
+
+<line1>    
+    <line border='0' lineHeight='85'>
+        <cell1>
+            <cell  lineWidth='60'></cell>
+        </cell1>
+         <cell2>
+            <cell fieldName="Header.titulo" lineWidth='160' align='C' fontSizePt ='20' fontStyle='B' fontFamily='Times'></cell>
+        </cell2>
+    </line>
+</line1>
+    <image1><image fieldName='Header.logoVayron' lineWidth='75' lineHeight='55' x='113' y='95' ></image></image1>
+    <image2><image fieldName='Header.brasao' lineWidth='30' lineHeight='30' x='19' y='8' ></image></image2>
+
+</header>

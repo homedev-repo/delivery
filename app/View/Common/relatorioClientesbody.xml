@@ -1,0 +1,22 @@
+<body>
+<line2>
+    <line lineHeight='0' alternateFill='190'>
+        <cell1>
+        
+            <cell lineWidth="0" border='0'></cell>
+        </cell1>
+        <cell2>
+            <cell align="C" border="1"  fontSizePt='10' fieldName="Cliente.nome" lineWidth='72' lineHeight='8'></cell>
+        </cell2>
+        <cell3>
+            <cell align="C" border="1"  fontSizePt='10' fieldName="Cliente.cpf"  lineWidth='26' lineHeight='8'></cell>
+        </cell3>
+         <cell5>
+            <cell border='1'  align="C"  fontSizePt='9' fieldName="Cliente.email" lineWidth='72' lineHeight="8"></cell>
+        </cell5>
+         <cell4>
+            <cell border='1'  align="C"  fontSizePt='9' fieldName="Situacao.nome" lineWidth='31' lineHeight="8"></cell>
+        </cell4>
+    </line>
+</line2>
+</body>

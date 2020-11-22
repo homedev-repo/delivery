@@ -1,0 +1,32 @@
+<columnTitles>
+    <cell1>
+        <cell lineHeight="25">
+        </cell>
+    </cell1>
+<line1>
+ <line lineHeight="0" >
+    <cell1>
+        <cell lineWidth="21">
+        </cell>
+    </cell1>
+        <cell2>
+            <cell lineWidth="89">
+                <title align="C" border="1"  titleFontSizePt="11" titleFontStyle="B"  lineWidth='90' lineHeight='13'><text>Custo</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell  lineWidth="1" lineHeight="0"></cell>
+        </cell3>
+          <cell4>
+            <cell lineWidth="22" >
+                <title align="C" border="1" titleFontSizePt="11" titleFontStyle="B"   lineWidth='22' lineHeight='13'><text>Valor</text></title>
+            </cell>
+        </cell4>
+        <cell5>
+            <cell lineWidth="50" >
+                <title align="C" border="1" titleFontSizePt="11" titleFontStyle="B"   lineWidth='50' lineHeight='13'><text>Categoria</text></title>
+            </cell>
+        </cell5>
+    </line>
+</line1>
+</columnTitles>

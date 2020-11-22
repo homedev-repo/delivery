@@ -1,0 +1,19 @@
+<body>
+<line3>
+    <line lineHeight='0' alternateFill='190'>
+        <cell1>
+            <cell lineWidth='0'>
+            </cell>
+        </cell1>
+        <cell4>
+            <cell border='1' fontSizePt='14'  align='C' fieldName='Categoria.numero_cupom' lineWidth='20' lineHeight='8'></cell>
+        </cell4>
+         <cell5>
+            <cell border='1' fontSizePt='14' fieldName='Categoria.total_desconto' align='C' lineWidth='30' lineHeight='8'></cell>
+        </cell5>
+        <cell6>
+            <cell border='1' fontSizePt='14' fieldName='Categoria.validade' align='C' lineWidth='30' lineHeight='8'></cell>
+        </cell6>
+    </line>
+</line3>
+</body>

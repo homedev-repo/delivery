@@ -1,0 +1,857 @@
+<body>
+
+<line28>
+    <line>
+        <cell1>
+            <cell lineWidth="13"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="56">
+                <title align="L" border='B' titleFontSizePt="14" fontStyle='B' lineHeight="8" lineWidth="180"><text>Dados Pessoais</text></title>
+            </cell>
+        </cell2>
+    </line>
+</line28>
+<cell1>
+    <cell lineHeight="-6"></cell>
+</cell1>
+<line1>
+    <line lineHeight="0">
+        <cell1>
+            <cell lineWidth="10"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="49"  >
+                <title align="C" border="0"  titleFontSizePt="10"  lineHeight="12" lineWidth="40"><text>Nome da Preparação</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="52" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="50" >
+                <title  align="L"  titleFontSizePt="10" lineHeight="12" lineWidth="50"><text>Produto</text></title>
+            </cell>
+        </cell4>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line1>
+
+<line2>
+    <line>
+        <cell1>
+            <cell lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.nome_preparacao" lineWidth='90' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="8"></cell>
+        </cell3>
+         <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Produto.nome" lineWidth='81' lineHeight="8"> </cell>
+        </cell5>
+    </line>
+</line2>
+    <image3><image fieldName='Header.produto' lineWidth='75' lineHeight='55' x='117' y='68' ></image></image3>
+<line90>
+    <line lineHeight="-39" >
+        <cell1>
+            <cell lineWidth="8"></cell>
+        </cell1>
+        <cell3>
+            <cell lineWidth="65" lineHeight="8"></cell>
+        </cell3>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line90>
+<line3>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="8"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="46">
+                <title align="C" border="0"  titleFontSizePt="10"  lineHeight="12" lineWidth="30"><text>Rendimento</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="65" lineHeight="8"></cell>
+        </cell3>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line3>
+<line4>
+    <line>
+        <cell1>
+            <cell  lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.rendimento" lineWidth='90' lineHeight="8"> </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="65" ></cell>
+        </cell3>
+    </line>
+</line4>
+<line5>
+    <line lineHeight="0">
+        <cell1>
+            <cell lineWidth="7"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="54"  >
+                <title align="C" border="0"  titleFontSizePt="10"  lineHeight="12" lineWidth="50"><text>Data da última alteração</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="65" lineHeight="5"></cell>
+        </cell3>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line5>
+<line6>
+    <line>
+        <cell1>
+            <cell lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.data_alteracao" lineWidth='90' lineHeight="8"> </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="6"></cell>
+        </cell3>
+    </line>
+</line6>
+<line7>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="10"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="56"  >
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="60"><text>Responsalve pela última alteração</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell  lineWidth="63" lineHeight="5"></cell>
+        </cell3>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line7>
+
+<line8>
+    <line>
+        <cell1>
+            <cell lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Usuario.nome" lineWidth='90' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="6" ></cell>
+        </cell3>
+    </line>
+</line8>
+<line9>
+    <line lineHeight="2" >
+        <cell1>
+            <cell lineWidth="13"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="56">
+                <title align="L" border='B' titleFontSizePt="14" fontStyle='B' lineHeight="10" lineWidth="180"><text>Itens</text></title>
+            </cell>
+        </cell2>
+    </line>
+</line9>
+
+<line12>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="1"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="39">
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="36"><text>Medidas</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="58" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="30"><text>Itens</text></title>
+            </cell>
+        </cell4>
+        <cell5>
+            <cell lineWidth="12" lineHeight="5"></cell>
+        </cell5>
+        <cell7>
+            <cell lineWidth="12" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="40"><text>Marca</text></title>
+            </cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell8>
+        <cell9>
+            <cell lineWidth="1" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="25"><text>Valor Uni.</text></title>
+            </cell>
+        </cell9>
+
+                <cell10>
+            <cell lineWidth="18" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell10>
+        <cell11>
+            <cell lineWidth="5" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="20"><text>Valor Total</text></title>
+            </cell>
+        </cell11>
+        
+    </line>
+</line12>
+ 
+<line13>
+    <line>
+        <cell1>
+            <cell  lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.medidas" lineWidth='28' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2"></cell>
+        </cell3>
+        <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.itens" lineWidth='68' lineHeight="8"></cell>
+        </cell5>
+        <cell6>
+            <cell lineWidth="2"></cell>
+        </cell6>
+        <cell7>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.marca" lineWidth='35' lineHeight="8"></cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="2"></cell>
+        </cell8>
+        <cell9>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_unitario" lineWidth='15' lineHeight="8"></cell>
+        </cell9>
+        <cell10>
+            <cell lineWidth="2"></cell>
+        </cell10>
+        <cell11>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_total" lineWidth='26' lineHeight="8"></cell>
+        </cell11>
+    </line>
+</line13>
+<line14>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="1"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="39">
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="36"><text>Medidas</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="58" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="30"><text>Itens</text></title>
+            </cell>
+        </cell4>
+        <cell5>
+            <cell lineWidth="12" lineHeight="5"></cell>
+        </cell5>
+        <cell7>
+            <cell lineWidth="12" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="40"><text>Marca</text></title>
+            </cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell8>
+        <cell9>
+            <cell lineWidth="1" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="25"><text>Valor Uni.</text></title>
+            </cell>
+        </cell9>
+
+                <cell10>
+            <cell lineWidth="18" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell10>
+        <cell11>
+            <cell lineWidth="5" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="20"><text>Valor Total</text></title>
+            </cell>
+        </cell11>
+        
+    </line>
+</line14>
+
+<line15>
+    <line>
+        <cell1>
+            <cell  lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.medidas_2" lineWidth='28' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2"></cell>
+        </cell3>
+        <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.itens_2" lineWidth='68' lineHeight="8"></cell>
+        </cell5>
+        <cell6>
+            <cell lineWidth="2"></cell>
+        </cell6>
+        <cell7>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.marca_2" lineWidth='35' lineHeight="8"></cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="2"></cell>
+        </cell8>
+        <cell9>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_unitario_2" lineWidth='15' lineHeight="8"></cell>
+        </cell9>
+        <cell10>
+            <cell lineWidth="2"></cell>
+        </cell10>
+        <cell11>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_total_2" lineWidth='26' lineHeight="8"></cell>
+        </cell11>
+    </line>
+</line15>
+
+<line16>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="1"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="39">
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="36"><text>Medidas</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="58" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="30"><text>Itens</text></title>
+            </cell>
+        </cell4>
+        <cell5>
+            <cell lineWidth="12" lineHeight="5"></cell>
+        </cell5>
+        <cell7>
+            <cell lineWidth="12" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="40"><text>Marca</text></title>
+            </cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell8>
+        <cell9>
+            <cell lineWidth="1" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="25"><text>Valor Uni.</text></title>
+            </cell>
+        </cell9>
+
+                <cell10>
+            <cell lineWidth="18" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell10>
+        <cell11>
+            <cell lineWidth="5" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="20"><text>Valor Total</text></title>
+            </cell>
+        </cell11>
+        
+    </line>
+</line16>
+<line17>
+    <line>
+        <cell1>
+            <cell  lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.medidas_3" lineWidth='28' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2"></cell>
+        </cell3>
+        <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.itens_3" lineWidth='68' lineHeight="8"></cell>
+        </cell5>
+        <cell6>
+            <cell lineWidth="2"></cell>
+        </cell6>
+        <cell7>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.marca_3" lineWidth='35' lineHeight="8"></cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="2"></cell>
+        </cell8>
+        <cell9>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_unitario_3" lineWidth='15' lineHeight="8"></cell>
+        </cell9>
+        <cell10>
+            <cell lineWidth="2"></cell>
+        </cell10>
+        <cell11>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_total_3" lineWidth='26' lineHeight="8"></cell>
+        </cell11>
+    </line>
+</line17>
+<line18>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="1"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="39">
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="36"><text>Medidas</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="58" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="30"><text>Itens</text></title>
+            </cell>
+        </cell4>
+        <cell5>
+            <cell lineWidth="12" lineHeight="5"></cell>
+        </cell5>
+        <cell7>
+            <cell lineWidth="12" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="40"><text>Marca</text></title>
+            </cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell8>
+        <cell9>
+            <cell lineWidth="1" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="25"><text>Valor Uni.</text></title>
+            </cell>
+        </cell9>
+
+                <cell10>
+            <cell lineWidth="18" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell10>
+        <cell11>
+            <cell lineWidth="5" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="20"><text>Valor Total</text></title>
+            </cell>
+        </cell11>
+        
+    </line>
+</line18>
+<line19>
+    <line>
+        <cell1>
+            <cell  lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.medidas_4" lineWidth='28' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2"></cell>
+        </cell3>
+        <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.itens_4" lineWidth='68' lineHeight="8"></cell>
+        </cell5>
+        <cell6>
+            <cell lineWidth="2"></cell>
+        </cell6>
+        <cell7>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.marca_4" lineWidth='35' lineHeight="8"></cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="2"></cell>
+        </cell8>
+        <cell9>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_unitario_4" lineWidth='15' lineHeight="8"></cell>
+        </cell9>
+        <cell10>
+            <cell lineWidth="2"></cell>
+        </cell10>
+        <cell11>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_total_4" lineWidth='26' lineHeight="8"></cell>
+        </cell11>
+    </line>
+</line19>
+<line20>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="1"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="39">
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="36"><text>Medidas</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="58" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="30"><text>Itens</text></title>
+            </cell>
+        </cell4>
+        <cell5>
+            <cell lineWidth="12" lineHeight="5"></cell>
+        </cell5>
+        <cell7>
+            <cell lineWidth="12" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="40"><text>Marca</text></title>
+            </cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell8>
+        <cell9>
+            <cell lineWidth="1" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="25"><text>Valor Uni.</text></title>
+            </cell>
+        </cell9>
+
+                <cell10>
+            <cell lineWidth="18" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell10>
+        <cell11>
+            <cell lineWidth="5" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="20"><text>Valor Total</text></title>
+            </cell>
+        </cell11>
+        
+    </line>
+</line20>
+<line21>
+    <line>
+        <cell1>
+            <cell  lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.medidas_5" lineWidth='28' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2"></cell>
+        </cell3>
+        <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.itens_5" lineWidth='68' lineHeight="8"></cell>
+        </cell5>
+        <cell6>
+            <cell lineWidth="2"></cell>
+        </cell6>
+        <cell7>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.marca_5" lineWidth='35' lineHeight="8"></cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="2"></cell>
+        </cell8>
+        <cell9>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_unitario_5" lineWidth='15' lineHeight="8"></cell>
+        </cell9>
+        <cell10>
+            <cell lineWidth="2"></cell>
+        </cell10>
+        <cell11>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_total_5" lineWidth='26' lineHeight="8"></cell>
+        </cell11>
+    </line>
+</line21>
+<line22>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="1"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="39">
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="36"><text>Medidas</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="58" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="30"><text>Itens</text></title>
+            </cell>
+        </cell4>
+        <cell5>
+            <cell lineWidth="12" lineHeight="5"></cell>
+        </cell5>
+        <cell7>
+            <cell lineWidth="12" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="40"><text>Marca</text></title>
+            </cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell8>
+        <cell9>
+            <cell lineWidth="1" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="25"><text>Valor Uni.</text></title>
+            </cell>
+        </cell9>
+
+                <cell10>
+            <cell lineWidth="18" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell10>
+        <cell11>
+            <cell lineWidth="5" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="20"><text>Valor Total</text></title>
+            </cell>
+        </cell11>
+        
+    </line>
+</line22>
+<line23>
+    <line>
+        <cell1>
+            <cell  lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.medidas_6" lineWidth='28' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2"></cell>
+        </cell3>
+        <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.itens_6" lineWidth='68' lineHeight="8"></cell>
+        </cell5>
+        <cell6>
+            <cell lineWidth="2"></cell>
+        </cell6>
+        <cell7>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.marca_6" lineWidth='35' lineHeight="8"></cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="2"></cell>
+        </cell8>
+        <cell9>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_unitario_6" lineWidth='15' lineHeight="8"></cell>
+        </cell9>
+        <cell10>
+            <cell lineWidth="2"></cell>
+        </cell10>
+        <cell11>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_total_6" lineWidth='26' lineHeight="8"></cell>
+        </cell11>
+    </line>
+</line23>
+<line25>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="1"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="39">
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="36"><text>Medidas</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="58" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="30"><text>Itens</text></title>
+            </cell>
+        </cell4>
+        <cell5>
+            <cell lineWidth="12" lineHeight="5"></cell>
+        </cell5>
+        <cell7>
+            <cell lineWidth="12" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="40"><text>Marca</text></title>
+            </cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell8>
+        <cell9>
+            <cell lineWidth="1" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="25"><text>Valor Uni.</text></title>
+            </cell>
+        </cell9>
+
+                <cell10>
+            <cell lineWidth="18" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell10>
+        <cell11>
+            <cell lineWidth="5" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="20"><text>Valor Total</text></title>
+            </cell>
+        </cell11>
+        
+    </line>
+</line25>
+<line26>
+    <line>
+        <cell1>
+            <cell  lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.medidas_7" lineWidth='28' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="2"></cell>
+        </cell3>
+        <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.itens_7" lineWidth='68' lineHeight="8"></cell>
+        </cell5>
+        <cell6>
+            <cell lineWidth="2"></cell>
+        </cell6>
+        <cell7>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.marca_7" lineWidth='35' lineHeight="8"></cell>
+        </cell7>
+        <cell8>
+            <cell lineWidth="2"></cell>
+        </cell8>
+        <cell9>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_unitario_7" lineWidth='15' lineHeight="8"></cell>
+        </cell9>
+        <cell10>
+            <cell lineWidth="2"></cell>
+        </cell10>
+        <cell11>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Fichatecnica.valor_total_7" lineWidth='26' lineHeight="8"></cell>
+        </cell11>
+    </line>
+</line26>
+
+
+<verse1><verse></verse></verse1>
+<line38>
+    <line>
+        <cell1>
+            <cell lineWidth="13"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="56">
+                <title align="L" border='B' titleFontSizePt="14" fontStyle='B' lineHeight="8" lineWidth="180"><text>Preparação</text></title>
+            </cell>
+        </cell2>
+    </line>
+</line38>
+<line31>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="11"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="40">
+                <title align="C"  titleFontSizePt="10" lineHeight="10" lineWidth="32"><text>Modo de Preparo</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell  lineWidth="28" lineHeight="2"></cell>
+        </cell3>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line31>
+<line32>
+    <line>
+        <cell1>
+            <cell lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+          <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.modo_preparo" lineHeight="8" lineWidth='152'></cell>
+        </cell2>
+    </line>
+</line32>
+
+
+<line33>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="8"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="40">
+                <title align="C"  titleFontSizePt="10" lineHeight="10" lineWidth="32"><text>Observações </text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell  lineWidth="28" lineHeight="2"></cell>
+        </cell3>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line33>
+<line34>
+    <line>
+        <cell1>
+            <cell lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+          <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Fichatecnica.observacao" lineHeight="8" lineWidth='152'></cell>
+        </cell2>
+    </line>
+</line34>
+</body>

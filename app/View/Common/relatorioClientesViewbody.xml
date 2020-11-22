@@ -1,0 +1,347 @@
+<body>
+<line28>
+    <line>
+        <cell1>
+            <cell lineWidth="13"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="56" >
+                <title align="L" border='B' titleFontSizePt="14" fontStyle='B' lineHeight="8" lineWidth="180"><text>Dados Pessoais</text></title>
+            </cell>
+        </cell2>
+    </line>
+</line28>
+<cell1>
+    <cell lineHeight="-6"></cell>
+</cell1>
+<line1>
+    <line lineHeight="0">
+        <cell1>
+            <cell lineWidth="8"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="49"  >
+                <title align="C" border="0"  titleFontSizePt="10"  lineHeight="12" lineWidth="20"><text>Nome</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+                <cell lineWidth="65" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="85" >
+                <title  align="L"  titleFontSizePt="10" lineHeight="12" lineWidth="50"><text>CPF</text></title>
+            </cell>
+        </cell4>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line1>
+<line2>
+    <line>
+        <cell1>
+            <cell  lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Cliente.nome" lineWidth='45' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="65"></cell>
+        </cell3>
+        <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Cliente.cpf" lineWidth='45' lineHeight="8"> </cell>
+        </cell5>
+    </line>
+</line2>
+<line3>
+    <line lineHeight="0">
+        <cell1>
+            <cell lineWidth="11"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="46">
+                <title align="C" border="0"  titleFontSizePt="10"  lineHeight="12" lineWidth="14"><text>E-mail</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="65" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="85" >
+                <title  align="L"  titleFontSizePt="10" lineHeight="12" lineWidth="50"><text>Tel. Celular</text></title>
+            </cell>
+        </cell4>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line3>
+<line4>
+    <line>
+        <cell1>
+            <cell lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Cliente.email" lineWidth='104' lineHeight="8"> </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="6"></cell>
+        </cell3>
+         <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Cliente.telefone_celular" lineWidth='45' lineHeight="8"></cell>
+        </cell5>
+    </line>
+</line4>
+<line5>
+    <line lineHeight="0">
+        <cell1>
+            <cell lineWidth="3"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="54"  >
+                <title align="C" border="0"  titleFontSizePt="10"  lineHeight="12" lineWidth="45"><text>Tel. Residencial</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="65" lineHeight="5"></cell>
+        </cell3>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line5>
+<line6>
+    <line>
+        <cell1>
+            <cell lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Cliente.telefone_residencial" lineWidth='104' lineHeight="8"> </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="6"></cell>
+        </cell3>
+    </line>
+</line6>
+<line7>
+    <line lineHeight="0" >
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="5" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line7>
+<line9>
+    <line lineHeight="2">
+        <cell1>
+            <cell lineWidth="13"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="56">
+                <title align="L" border='B' titleFontSizePt="14" fontStyle='B' lineHeight="8" lineWidth="180"><text>Dados Endereço</text></title>
+            </cell>
+        </cell2>
+    </line>
+</line9>
+<line10>
+    <line lineHeight="-2">
+        <cell1>
+            <cell lineWidth="3"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="56">
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="35"><text>Endereço</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="63" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="20" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="40"><text>Bairro</text></title>
+            </cell>
+        </cell4>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="10" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line10>
+<line11>
+    <line>
+        <cell1>
+            <cell lineWidth="13" ></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Cliente.endereco" lineWidth='104' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="6"></cell>
+        </cell3>
+        <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Cliente.bairro" lineWidth='69' lineHeight="8"></cell>
+        </cell5>
+    </line>
+</line11>
+<line12>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="10"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="54">
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="27"><text>Complemento</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="58" lineHeight="5"></cell>
+        </cell3>
+        <cell4>
+            <cell lineWidth="50" >
+                <title  align="L" titleFontSizePt="10" lineHeight="12" lineWidth="49"><text>CEP</text></title>
+            </cell>
+        </cell4>
+        <cell5>
+            <cell lineWidth="12" lineHeight="5"></cell>
+        </cell5>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line12>
+<line13>
+    <line>
+        <cell1>
+            <cell lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Cliente.complemento" lineWidth='104' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="6"></cell>
+        </cell3>
+        <cell5>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="9" fieldName="Cliente.cep" lineWidth='69' lineHeight="8"></cell>
+        </cell5>
+        <cell6>
+            <cell lineWidth="6"></cell>
+        </cell6>
+    </line>
+</line13>
+<line14>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="9"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="54">
+                <title align="C" border="0"  titleFontSizePt="10" lineHeight="12" lineWidth="21"><text>Número</text></title>
+            </cell>
+        </cell2>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line14>
+<line15>
+    <line>
+        <cell1>
+            <cell lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Cliente.numero" lineWidth='56' lineHeight="8"></cell>
+        </cell2>
+    </line>
+</line15>
+<line19>
+    <line lineHeight="0" >
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="5" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line19>
+<line16>
+    <line lineHeight="2">
+        <cell1>
+            <cell lineWidth="13"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="56">
+                <title align="L" border='B' titleFontSizePt="14" fontStyle='B' lineHeight="8" lineWidth="180"><text>Situação</text></title>
+            </cell>
+        </cell2>
+    </line>
+</line16>
+<line17>
+    <line lineHeight="-2">
+        <cell1>
+            <cell lineWidth="3"></cell>
+        </cell1>
+        <cell3>
+            <cell lineWidth="63" lineHeight="5"></cell>
+        </cell3>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="10" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line17>
+<line18>
+    <line>
+        <cell1>
+            <cell lineWidth="13" ></cell>
+        </cell1>
+        <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Situacao.nome" lineWidth='104' lineHeight="8"></cell>
+        </cell2>
+        <cell3>
+            <cell lineWidth="6"></cell>
+        </cell3>
+    </line>
+</line18>
+<line31>
+    <line lineHeight="0" >
+        <cell1>
+            <cell lineWidth="6"></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="40">
+                <title align="C"  titleFontSizePt="10" lineHeight="10" lineWidth="32"><text>Justificativa</text></title>
+            </cell>
+        </cell2>
+        <cell3>
+            <cell  lineWidth="28" lineHeight="2"></cell>
+        </cell3>
+        <cell6>
+            <cell lineWidth="25" >
+                <title align="C" lineHeight="20" lineWidth="29"></title>
+            </cell>
+        </cell6>
+    </line>
+</line31>
+<line32>
+    <line>
+        <cell1>
+            <cell lineWidth="13" lineHeight="-10"></cell>
+        </cell1>
+          <cell2>
+            <cell border='1' align="L"  fontSizePt='9' titleFontSizePt="10" fieldName="Cliente.justificativa" lineHeight="8" lineWidth='104'></cell>
+        </cell2>
+    </line>
+</line32>
+</body>

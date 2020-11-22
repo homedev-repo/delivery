@@ -1,0 +1,13 @@
+<header>
+<line1>    
+    <line border='0' lineHeight='20'>
+        <cell1>
+            <cell lineWidth='10'></cell>
+        </cell1>
+    </line>
+</line1>
+
+    <image1><image fieldName='Header.logoVayron' lineWidth='45' lineHeight='15' x='83' y='8' ></image></image1>
+
+
+</header>

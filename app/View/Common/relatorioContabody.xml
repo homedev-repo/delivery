@@ -1,0 +1,19 @@
+<body>
+<line2>
+    <line lineHeight='0'>
+        <cell1>
+        
+            <cell lineWidth="24" border='0'></cell>
+        </cell1>
+        <cell2>
+            <cell align="C" border="1"  fontSizePt='10' fieldName="Conta.tipoconta" lineWidth='100' lineHeight='8'></cell>
+        </cell2>
+        <cell3>
+            <cell align="C" border="1"  fontSizePt='10' fieldName="Conta.valor"  lineWidth='26' lineHeight='8'></cell>
+        </cell3>
+        <cell4>
+            <cell align="C" border="1"  fontSizePt='10' fieldName="Conta.data_vencimento"  lineWidth='26' lineHeight='8'></cell>
+        </cell4>
+    </line>
+</line2>
+</body>

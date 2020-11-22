@@ -1,0 +1,16 @@
+<body>
+<line2>
+    <line lineHeight='0' alternateFill='190'>
+        <cell1>
+        
+            <cell lineWidth="0" border='0'></cell>
+        </cell1>
+        <cell2>
+            <cell align="C" border="1"  fontSizePt='10' fieldName="Cliente.endereco" lineWidth='100' lineHeight='8'></cell>
+        </cell2>
+        <cell3>
+            <cell align="C" border="1"  fontSizePt='10' fieldName="Cliente.bairro"  lineWidth='100' lineHeight='8'></cell>
+        </cell3>
+    </line>
+</line2>
+</body>

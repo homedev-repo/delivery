@@ -1,0 +1,34 @@
+<header>
+
+<line1>    
+    <line border='0' lineHeight='52'>
+        <cell1>
+            <cell  lineWidth='20'></cell>
+        </cell1>
+         <cell2>
+            <cell fieldName="Header.titulo" lineWidth='160' align='C' fontSizePt = '17'   fontStyle='B' fontFamily='Times'></cell>
+        </cell2>
+    </line>
+</line1>
+<line4>
+    <line lineHeight='-13'>
+        <cell1>
+            <cell border='0' lineWidth='50'></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="100"  align='C' fontSizePt ='12' fontFamily='Times'  fieldName="Header.totalRegistros"></cell>
+        </cell2>
+    </line>
+</line4>
+<line5>
+    <line lineHeight='22'>
+        <cell1>
+            <cell border='0' lineWidth='50'></cell>
+        </cell1>
+        <cell2>
+            <cell lineWidth="96"  align='C' fontSizePt ='12' fontFamily='Times'  fieldName="Header.tipo"></cell>
+        </cell2>
+    </line>
+</line5>
+    <image1><image fieldName='Header.logoVayron' lineWidth='44' lineHeight='13' x='82' y='13' ></image></image1>
+</header>
